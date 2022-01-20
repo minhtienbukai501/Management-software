@@ -1,0 +1,9 @@
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\BUS\bin\Debug\BUS.dll
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\BUS\bin\Debug\BUS.pdb
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\BUS\bin\Debug\DAL.dll
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\BUS\bin\Debug\DAL.pdb
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\BUS\obj\Debug\BUS.dll
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\BUS\obj\Debug\BUS.pdb

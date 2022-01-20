@@ -1,0 +1,6 @@
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\DAL\bin\Debug\DAL.dll
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\DAL\bin\Debug\DAL.pdb
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\DAL\obj\Debug\DAL.dll
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,11 @@
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\Quan Li Kho Thuoc Tay\bin\Debug\Quan Li Kho Thuoc Tay.exe.config
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\Quan Li Kho Thuoc Tay\bin\Debug\Quan Li Kho Thuoc Tay.exe
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\Quan Li Kho Thuoc Tay\bin\Debug\Quan Li Kho Thuoc Tay.pdb
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\Quan Li Kho Thuoc Tay\obj\Debug\Quan Li Kho Thuoc Tay.csproj.AssemblyReference.cache
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\Quan Li Kho Thuoc Tay\obj\Debug\Quan_Li_Kho_Thuoc_Tay.FormMenu.resources
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\Quan Li Kho Thuoc Tay\obj\Debug\Quan_Li_Kho_Thuoc_Tay.Properties.Resources.resources
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\Quan Li Kho Thuoc Tay\obj\Debug\Quan Li Kho Thuoc Tay.csproj.GenerateResource.cache
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\Quan Li Kho Thuoc Tay\obj\Debug\Quan Li Kho Thuoc Tay.csproj.CoreCompileInputs.cache
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\Quan Li Kho Thuoc Tay\obj\Debug\Quan Li Kho Thuoc Tay.exe
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\Quan Li Kho Thuoc Tay\obj\Debug\Quan Li Kho Thuoc Tay.pdb
+C:\Users\lemin\Desktop\Do An C#.net\CAC PHAN MEM QUAN LI\Quan Li Kho Thuoc Tay\obj\Debug\Quan_Li_Kho_Thuoc_Tay.FormDangNhap.resources
